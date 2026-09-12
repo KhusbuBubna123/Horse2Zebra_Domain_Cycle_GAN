@@ -5,8 +5,8 @@ Cycle GAN(GAN in Cycle)
 
 
 # Dataset Description
-Content
-Horse2zebra dataset consists of 1187 Horse & 1474 Zebra Images. Images in both the domains are split into train and test subsets.
+
+Horse2zebra dataset consists of 1187 Horse & 1474 Zebra Images. Images in both the domains are split into train and test subsets. \
 
 Acknowledgements
 This dataset was obtained from UC Berkeley's official directory of CycleGAN Datasets. For more details on the dataset refer the related CycleGAN publication. Work based on the dataset should cite:
